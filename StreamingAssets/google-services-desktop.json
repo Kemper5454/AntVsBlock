@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "385716034434-l35m75hqtv19j3ildc85ml67pgl9v5qb.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJS0fyhNExmul92fYXvq8JZMT6Z_5mQi4"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:385716034434:ios:69ea21406743d1f06a8d9b", 
+        "android_client_info": {
+          "package_name": "com.bitanthill.ant.block"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "ant-vs-block.appspot.com", 
+    "project_id": "ant-vs-block", 
+    "firebase_url": "https://ant-vs-block.firebaseio.com", 
+    "project_number": "385716034434"
+  }
+}
